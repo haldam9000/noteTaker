@@ -4,6 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
     background-image: url("https://i.pinimg.com/564x/ff/35/77/ff3577ae584e186e7fd2ddf18c094022--sinclair-gabi.jpg");
+    background-image: url('images/hotSec.jpg')
 }
 
 input {
